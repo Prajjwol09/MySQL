@@ -1,1 +1,1 @@
-MySQL Topics for Beginners
+MySQL Topics 
